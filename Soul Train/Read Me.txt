@@ -1,0 +1,35 @@
+Controlls
+
+1. Arrow keys to move.
+
+2. 'B' to counter.
+
+3. 'SPACE' to stop attack bar.
+
+————————————
+
+"Soul Train" agreement.
+
+————————————
+
+
+By installing this game, you are considered to understand and agree to all the terms and conditions for the assets used in "Soul Train" and redistribution of "Soul Train":
+
+1. The use of the "Soul Train" assets is limited only to PERSONAL USE, not for COMMERCIAL purposes, not for purposes that generate any
+profit, not for purposes that receive costs for participating in any activities, and not for purposes that gain a benefit from utilizing/use
+these assets whether it's for individuals, design agencies, printing, organizations, communities, or companies/corporations.
+
+2. The redistribution of "Soul Train" for COMMERCIAL gain is prohibited. You can download "Soul Train" from itch.io/SoulTrain
+
+3. What considered as COMMERCIAL purposes that prohibited are Advertising, Promotion, TV, Film, Video, Motion Graphics, Youtube, 
+or for Product Packaging (Physical or Digital) or any media for the purpose to generate and receive profits/benefit.
+
+4. Using these assets for commercial purposes - whatever its form - WITHOUT PERMISSION from the "Soul Train" dev team, will incur EXTENDED LICENSE fees.
+
+5. What is considered an asset? - any images (.png, .ico), music (.mp3, .wav), and fonts (.ttf)
+
+For more information, please contact me: 
+
+nolan.m.mcallister@gmail.com
+
+sincerely, the whole "Soul Train" dev team.
